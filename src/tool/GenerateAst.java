@@ -9,6 +9,9 @@ import java.util.List;
  * Catigeart
  * GitHub: https://github.com/Catigeart
  * Date: 11:59 2021/1/28
+ *
+ * AST元编程生成脚本。
+ * 似乎代码有问题，于是直接从其他repo上copy了生成的Expr和Stmt ...
  */
 public class GenerateAst {
     public static void main(String[] args) throws IOException {
